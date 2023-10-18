@@ -26,4 +26,4 @@ See publication:
 Susanna Fiorini, Arda Tezcan, Tom Vanallemeersch, Sara Szoc, Kristin Migdisi, Laurens Meeus and Lieve Macken (2023).
 Translations and Open Science - Exploring how translation technologies can support multilingualism in scholarly
 communication. In proceedings of conference Human-informed Translation and Interpreting Technology (HiT-IT 2023), pp.
-41–51 (<a href="https://biblio.ugent.be/publication/01H83XHYM756VFGDMRC54Q8A80" target="_blank">PDF</a>).
+41–51 ([PDF](https://biblio.ugent.be/publication/01H83XHYM756VFGDMRC54Q8A80){:target="_blank"}).
