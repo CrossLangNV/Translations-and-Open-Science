@@ -52,3 +52,16 @@ Usage:
 ```bash
 python zepman_analyse_output.py <folder_path> <domain> <tgt_lang>
 ```
+
+## Correlation analysis
+
+Usage:
+```python
+from util_evaluation_correlation import correlation, correlation2
+x = [1, 2, 3, 4, 5]
+y = [2, 2, 1, 3, 5]
+r = correlation(x, y)
+R = correlation2(x, y)
+kappa = cohen_
+r == R
+```
