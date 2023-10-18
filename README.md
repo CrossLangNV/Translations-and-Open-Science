@@ -16,7 +16,7 @@ and evaluation activities were performed by CrossLang and its partners LT3 and U
 
 This repository contains software developed as a result of the above activities:
 
-- Modules for preparing data
+- Modules for analysing and preparing data
 - Modules for calculating automatic evaluation scores based on machine translation output and ground truth (existing
   translations)
 - Modules for calculating statistics based on human evaluation of machine translation output
@@ -26,4 +26,4 @@ See publication:
 Susanna Fiorini, Arda Tezcan, Tom Vanallemeersch, Sara Szoc, Kristin Migdisi, Laurens Meeus and Lieve Macken (2023).
 Translations and Open Science - Exploring how translation technologies can support multilingualism in scholarly
 communication. In proceedings of conference Human-informed Translation and Interpreting Technology (HiT-IT 2023), pp.
-41–51.
+41–51. https://biblio.ugent.be/publication/01H83XHYM756VFGDMRC54Q8A80
